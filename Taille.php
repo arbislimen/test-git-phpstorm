@@ -1,5 +1,1 @@
 <?php
-
-$taille='petit';
-
-?>
