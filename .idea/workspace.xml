@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="408fa265-c4fa-4d3d-938b-26b6cecd63ca" name="Default Changelist" comment="add personne" />
+    <list default="true" id="408fa265-c4fa-4d3d-938b-26b6cecd63ca" name="Default Changelist" comment="commit 2">
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_18_11_2021_09_13_[Default_Changelist]/shelved.patch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_18_11_2021_09_13_[Default_Changelist]1/shelved.patch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_18_11_2021_09_13__Default_Changelist_.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -74,7 +79,21 @@
       <option name="project" value="LOCAL" />
       <updated>1637156451223</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="commit 1">
+      <created>1637224404162</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1637224404162</updated>
+    </task>
+    <task id="LOCAL-00005" summary="commit 2">
+      <created>1637224431843</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1637224431843</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -125,7 +144,10 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="modif voiture" />
     <MESSAGE value="add div style.css" />
+    <MESSAGE value="commit 1" />
+    <MESSAGE value="commit 2" />
     <MESSAGE value="add personne" />
-    <option name="LAST_COMMIT_MESSAGE" value="add personne" />
+    <MESSAGE value="add personne2" />
+    <option name="LAST_COMMIT_MESSAGE" value="add personne2" />
   </component>
 </project>
