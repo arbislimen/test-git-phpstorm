@@ -1,11 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="408fa265-c4fa-4d3d-938b-26b6cecd63ca" name="Default Changelist" comment="commit 2">
-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_18_11_2021_09_13_[Default_Changelist]/shelved.patch" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_18_11_2021_09_13_[Default_Changelist]1/shelved.patch" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_18_11_2021_09_13__Default_Changelist_.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
+    <list default="true" id="408fa265-c4fa-4d3d-938b-26b6cecd63ca" name="Default Changelist" comment="add span">
+      <change beforePath="$PROJECT_DIR$/Taille.php" beforeDir="false" afterPath="$PROJECT_DIR$/Taille.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -93,7 +90,21 @@
       <option name="project" value="LOCAL" />
       <updated>1637224431843</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="add span">
+      <created>1637224766620</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1637224766620</updated>
+    </task>
+    <task id="LOCAL-00007" summary="add span">
+      <created>1637224905770</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1637224905770</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -148,6 +159,7 @@
     <MESSAGE value="commit 2" />
     <MESSAGE value="add personne" />
     <MESSAGE value="add personne2" />
-    <option name="LAST_COMMIT_MESSAGE" value="add personne2" />
+    <MESSAGE value="add span" />
+    <option name="LAST_COMMIT_MESSAGE" value="add span" />
   </component>
 </project>
