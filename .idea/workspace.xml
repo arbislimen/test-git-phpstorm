@@ -24,7 +24,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="master" />
+        <entry key="$PROJECT_DIR$" value="branche2" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -84,7 +84,21 @@
       <option name="project" value="LOCAL" />
       <updated>1637221612289</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="add couleur2">
+      <created>1637222135975</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1637222135975</updated>
+    </task>
+    <task id="LOCAL-00006" summary="add li">
+      <created>1637222161455</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1637222161455</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -137,6 +151,8 @@
     <MESSAGE value="add div style.css" />
     <MESSAGE value="add personne" />
     <MESSAGE value="add couleur" />
-    <option name="LAST_COMMIT_MESSAGE" value="add couleur" />
+    <MESSAGE value="add couleur2" />
+    <MESSAGE value="add li" />
+    <option name="LAST_COMMIT_MESSAGE" value="add li" />
   </component>
 </project>
