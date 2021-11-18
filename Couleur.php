@@ -1,5 +1,7 @@
 <?php
 
-$couleur='blanc';
+$couleur='red';
+
+$couleur2='pink'
 
 ?>
