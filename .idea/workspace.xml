@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="408fa265-c4fa-4d3d-938b-26b6cecd63ca" name="Default Changelist" comment="taille L">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Taille.php" beforeDir="false" afterPath="$PROJECT_DIR$/Taille.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,6 +54,7 @@
       <workItem from="1637136287181" duration="2394000" />
       <workItem from="1637155268372" duration="48000" />
       <workItem from="1637155461606" duration="1349000" />
+      <workItem from="1637307862614" duration="1049000" />
     </task>
     <task id="LOCAL-00001" summary="modif voiture">
       <created>1637155499441</created>
@@ -77,7 +77,14 @@
       <option name="project" value="LOCAL" />
       <updated>1637156451223</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="taille L">
+      <created>1637308053183</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1637308053183</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -129,6 +136,7 @@
     <MESSAGE value="modif voiture" />
     <MESSAGE value="add div style.css" />
     <MESSAGE value="add personne" />
-    <option name="LAST_COMMIT_MESSAGE" value="add personne" />
+    <MESSAGE value="taille L" />
+    <option name="LAST_COMMIT_MESSAGE" value="taille L" />
   </component>
 </project>

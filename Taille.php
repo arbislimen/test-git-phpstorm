@@ -1,5 +1,5 @@
 <?php
 
-echo "Taille L";
+echo "Taille XL";
 
 ?>
