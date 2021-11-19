@@ -2,6 +2,6 @@
 
 $couleur='red';
 
-$couleur2='pink'
+$couleur2='pink2'
 
 ?>
